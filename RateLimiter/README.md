@@ -1,0 +1,2 @@
+# Rate Limter
+This is used to limit the request rate of a component, such as a microservice or just an API. If your service can't take huge traffic in the actual production environment and your business workflow has no strong performance requirement, you can introduce a rate limit to force reduce the QPS.
